@@ -1,16 +1,19 @@
-# musik
 
-A new Flutter project.
+# YouTube Music Downloader
 
-## Getting Started
+A Flutter application for listening to and downloading music directly from YouTube. This app provides a sleek interface and easy-to-use functionality for music lovers who want offline access to their favorite tracks.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![App Screenshot](https://i.imgur.com/VHgM9Z9.jpeg)
+![App Screenshot](https://i.imgur.com/2XJlQKw.jpeg)
+![App Screenshot](![App Screenshot](https://i.imgur.com/2XJlQKw.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can download the android apk [from here](https://drive.google.com/file/d/18MDfc4YJQjRobCj55qkxayMGIJrMzIUc/view?usp=sharing)
+
+## Disclaimer
+
+This app is for personal use only. Downloading copyrighted material without permission may violate YouTube’s terms of service and local copyright laws.
+
