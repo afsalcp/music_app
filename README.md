@@ -6,8 +6,8 @@ A Flutter application for listening to and downloading music directly from YouTu
 ## Screenshots
 
 <img src="https://i.imgur.com/VHgM9Z9.jpeg" width="300">
-![App Screenshot](https://i.imgur.com/2XJlQKw.jpeg)
-![App Screenshot](https://i.imgur.com/2XJlQKw.jpeg)
+<img src="https://i.imgur.com/2XJlQKw.jpeg" width="300">
+<img src="https://i.imgur.com/eDEyLG6.jpeg" width=300>
 
 
 ## Installation
